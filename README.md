@@ -1,6 +1,6 @@
 # Event Registration System
 
-A backend Event Registration System developed for the **CodeAlpha Backend Development Internship**.
+A backend Event Registration System developed for the **CodeAlpha Backend Development**.
 
 Users can register, log in, view events, register for events, view their registrations, and cancel them.
 
