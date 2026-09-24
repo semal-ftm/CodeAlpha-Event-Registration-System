@@ -1,6 +1,17 @@
+# Python
 venv/
+.venv/
 __pycache__/
 *.pyc
+
+# Environment variables
 .env
+
+# React / Node
+node_modules/
+frontend/node_modules/
+dist/
+frontend/dist/
+
+# VS Code
 .vscode/
-db.sqlite3
